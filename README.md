@@ -172,7 +172,7 @@ streamlit run app.py
 **Question**
 
 ```
-How can I subscribe to a Vodafone internet package?
+ازاي اقدر اشترك في الانترنت الأرضي؟
 ```
 
 **System Workflow**
